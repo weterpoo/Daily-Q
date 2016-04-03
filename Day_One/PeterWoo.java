@@ -1,5 +1,5 @@
-//time: O(nlogn)ish, haven't thought about it deeply
-//space: O(nlogn)ish or O(n) depending on what Arrays.sort uses
+//time: O(N * Nlog(N)) because of the sort
+//space: O(nlogn) because of quicksort
 
 import java.io.*;
 import java.util.*;
