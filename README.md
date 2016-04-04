@@ -6,7 +6,8 @@ Question Rotation Order:</br>
 5. Zach</br>
 6. Peter I.</br>
 7. Geoff</br>
-8. Bernard
+8. Bernard</br>
+9. Cameron
 </br></br>
 Submission Instructions:</br>
 1. go into "day_X" folder</br>
