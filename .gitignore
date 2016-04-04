@@ -1,0 +1,8 @@
+# Java compiled class
+**/*.class
+
+# C compiled files
+**/*.o
+
+# Python compiled files
+**/*.pyc
