@@ -8,7 +8,7 @@ Question Rotation Order:</br>
 7. Geoff
 </br></br>
 Submission Instructions:</br>
-1. go into "Day_X" folder</br>
+1. go into "day_X" folder</br>
 2. read question.txt</br>
 3. solve and push with file called name.file</br>
 4. comment time + space complexity</br>
