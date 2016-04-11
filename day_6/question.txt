@@ -1,0 +1,5 @@
+Part 1:
+You are given a unsorted array of consecutive integers 1-n as an input, except one unkown element within the array between 1 and n is missing. Write a function that will return which number is missing.
+
+Part 2:
+Now two elements between 1 and n are missing. Write a function that will return which two are missing.
