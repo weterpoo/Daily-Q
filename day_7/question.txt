@@ -1,0 +1,3 @@
+https://code.google.com/codejam/contest/6254486/dashboard#s=p3
+
+Note: Need File I/O for google code jam problems, so make sure to brush up on that :)
